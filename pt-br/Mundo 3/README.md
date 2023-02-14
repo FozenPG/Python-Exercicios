@@ -1,5 +1,5 @@
 # Exercícios de Python em Portugues
 
-Primeiro mundo, o curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
+Terceiro mundo, o curso explica as estruturas de dados, funções, módulos e tratamento de erros.
 
 # **_O enunciado dos exercícios estarão como comentario em cada arquivo .py_**

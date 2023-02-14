@@ -1,6 +1,6 @@
 #################################################################################
 #                                                                               #
-#    Escreva um algoritimo que leia um valor em metros e o exiba convertido em  #
+#    Escreva um algoritmo que leia um valor em metros e o exiba convertido em  #
 # centímetros e milímetros.                                                     #
 #                                                                               #
 #################################################################################

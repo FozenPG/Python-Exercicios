@@ -6,5 +6,5 @@
 #                                                                               #
 #################################################################################
 
-n = float(input('Quanto dinheiro voce tem: '))
-print('com R${:.2f} você pode comprar {:.2f}€'.format(n, (n/5.58) ))
+n = float(input('Quanto dinheiro você tem: '))
+print('Com R${:.2f} você pode comprar {:.2f}€'.format(n, (n/5.58) ))
