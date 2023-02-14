@@ -9,9 +9,6 @@ Python exercises solved!
 
 All credits for these exercises go to Professor Guanabara, who developed and made them available for free on YouTube and on the CursoEmVideo website. Here I will just be translating and solving them my way!
 
-- [YouTube](1)
+- [YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
-- [Curso em Vídeo](2)
-    
-[1]: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ "YouTube"
-[2]: https://www.cursoemvideo.com/ "Curso em Vídeo"
+- [Curso em Vídeo](https://www.cursoemvideo.com/)
